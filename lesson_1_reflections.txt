@@ -1,0 +1,7 @@
+I went dowm line by line and was told in the instructions to look for a spelling error. After I found a spelling error I confirmed the difference in both versions
+
+Having easy access to afiles changes could make it easier to see he order that problems were solved and simplify the code review by looking at less complicated code to more dense code.
+
+There is a better logical relationship between manual commits than automated commits.
+
+Git is for computer programs while google isfor documents

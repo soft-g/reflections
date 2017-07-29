@@ -1,0 +1,1 @@
+When you initialize a repository agit metadata file is created. This must be done to track the files in your repository.
