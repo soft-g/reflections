@@ -4,4 +4,10 @@ Having easy access to afiles changes could make it easier to see he order that p
 
 There is a better logical relationship between manual commits than automated commits.
 
-Git is for computer programs while google isfor documents
+Git is for computer programs while google is for documents
+
+git log can be used to search for changes in commit text and git diff can be used to compare versions
+
+Using version control allows more confidence because a last good version can be more quickly retrieved
+
+I want to use git when writing complex managedcode or working together with others to complet larger tasks

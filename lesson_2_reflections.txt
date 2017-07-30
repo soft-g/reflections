@@ -1,1 +1,9 @@
 When you initialize a repository agit metadata file is created. This must be done to track the files in your repository.
+
+Working directory is a logical location of files that may or may not be included in a repository. Staging area includes files that will be comitted.
+
+Compare the staged diff to the previous commit.
+
+Branches can be usedul to try out new things while leaving the main code intact. Helping to better organize a project.
+
+Diagrams make Branches visually accessible andhelp keep track ofside branches.
