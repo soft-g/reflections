@@ -1,6 +1,6 @@
-I went dowm line by line and was told in the instructions to look for a spelling error. After I found a spelling error I confirmed the difference in both versions
+I went down line by line and was told in the instructions to look for a spelling error. After I found a spelling error I confirmed the difference in both versions
 
-Having easy access to afiles changes could make it easier to see he order that problems were solved and simplify the code review by looking at less complicated code to more dense code.
+Having easy access to a files changes could make it easier to see the order that problems were solved and simplify the code review by looking at less complicated code to more dense code.
 
 There is a better logical relationship between manual commits than automated commits.
 
@@ -10,4 +10,4 @@ git log can be used to search for changes in commit text and git diff can be use
 
 Using version control allows more confidence because a last good version can be more quickly retrieved
 
-I want to use git when writing complex managedcode or working together with others to complet larger tasks
+I want to use git when writing complex managed code or working together with others to complete larger tasks
