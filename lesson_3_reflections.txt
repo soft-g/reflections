@@ -11,3 +11,11 @@ Use forking to clone a git repository on Github, use cloning to copy a repositor
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 It tells you whether ther people are making commits and lets you know if you are out of sync.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Github makes management of merges and pull requests easier. Without Github it would beharder to keep track of many incoming changes. Github is very important for large multicollaboratuve projects.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+You can try out new things and experiment as well as build on working code. Easier to maintain a master branch with fewer subbranches.
