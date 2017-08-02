@@ -1,1 +1,3 @@
 When would you want to add remote repository rather than keeping all your work local?
+
+When you wish to access you work from more than one device or location and also when a repository has more than one contributor.
