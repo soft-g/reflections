@@ -7,3 +7,7 @@ You might not want automated pulls because you know where you are in a project a
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 Use forking to clone a git repository on Github, use cloning to copy a repository to your working folder, use branching when adding commits to you working folder.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It tells you whether ther people are making commits and lets you know if you are out of sync.
