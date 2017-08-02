@@ -7,3 +7,7 @@ Compare the staged diff to the previous commit.
 Branches can be useful to try out new things while leaving the main code intact. Helping to better organize a project.
 
 Diagrams make Branches visually accessible and help keep track of side branches.
+
+Merging is fucked up and has to be done just right or else shit is fucked. Shit was fucked.
+
+Automatic merging can sometimes simplify things. Other times it creates a mess.
