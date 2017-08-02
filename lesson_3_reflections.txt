@@ -3,3 +3,7 @@ When would you want to add remote repository rather than keeping all your work l
 When you wish to access you work from more than one device or location and also when a repository has more than one contributor.
 
 You might not want automated pulls because you know where you are in a project and don't want to be confused.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Use forking to clone a git repository on Github, use cloning to copy a repository to your working folder, use branching when adding commits to you working folder.
